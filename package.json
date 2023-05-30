@@ -1,0 +1,13 @@
+{
+  "name": "jsProyects",
+  "version": "1.0.0",
+  "description": "",
+  "main": "",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "palindromo": "node ./src/01-palindromo.js"
+  },
+  "keywords": [],
+  "author": "Jos Myers",
+  "license": "ISC"
+}
